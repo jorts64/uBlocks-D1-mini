@@ -11,7 +11,7 @@ Actualment utilitzant v0.1.25 (alpha) de microBlocks
 
 ![1 button](/imatges/semafor.png)
 
-## Exemple amb rele
+## Exemple amb relè
 
 ![1 button](/imatges/rele.png)
 
