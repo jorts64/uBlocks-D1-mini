@@ -3,8 +3,7 @@ Programació [kit D1 mini](https://github.com/jorts64/kit-D1-mini/wiki) amb [mic
 
 Actualment utilitzant [v0.1.25 (alpha)](/ublocks%2025) del [repositori de microBlocks](https://github.com/bromagosa/microblocks-site/releases/tag/v0.1.25)
 
-Podeu descarregar els programes a la carpeta [Examples](/Examples) 
-Abans cal carregar la [màquina virtual](/ublocks%2025/vm.zip) al D1 a l'entorn Arduino
+Podeu descarregar els programes a la carpeta [Examples](/Examples). Abans cal carregar la [màquina virtual](/ublocks%2025/vm.zip) al D1 a l'entorn Arduino
 
 
 ## Exemple amb One button shield
