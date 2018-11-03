@@ -3,7 +3,7 @@ Programació [kit D1 mini](https://github.com/jorts64/kit-D1-mini/wiki) amb [mic
 
 Actualment utilitzant [v0.1.25 (alpha)](/ublocks%2025) de microBlocks
 
-Podeu descarregar els programes a la carpeta [[Exemples]]. 
+Podeu descarregar els programes a la carpeta [Examples](/Examples) 
 Abans cal carregar la [màquina virtual](/ublocks%2025/vm.zip) al D1 a l'entorn Arduino
 
 
