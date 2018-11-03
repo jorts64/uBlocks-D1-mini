@@ -1,7 +1,11 @@
 # uBlocks-D1-mini
 Programació [kit D1 mini](https://github.com/jorts64/kit-D1-mini/wiki) amb [microBlocks](https://github.com/bromagosa/microblocks-site/releases/tag/v0.1.25)
 
-Actualment utilitzant v0.1.25 (alpha) de microBlocks
+Actualment utilitzant [v0.1.25 (alpha)](/ublocks%2025) de microBlocks
+
+Podeu descarregar els programes a la carpeta [[Exemples]]. 
+Abans cal carregar la [màquina virtual](/ublocks%2025/vm.zip) al D1 a l'entorn Arduino
+
 
 ## Exemple amb One button shield
 
